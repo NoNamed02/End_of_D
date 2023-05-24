@@ -1,0 +1,24 @@
+{
+  "FolderOrderSettings": [
+    {"name":"r1","order":8,"path":"folders/Sprites/r1.yy",},
+    {"name":"r2","order":9,"path":"folders/Sprites/r2.yy",},
+    {"name":"room2","order":2,"path":"folders/Objects/room2.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
+    {"name":"start","order":2,"path":"sprites/start/start.yy",},
+    {"name":"old_paper_texture_background_free_photo","order":1,"path":"sprites/old_paper_texture_background_free_photo/old_paper_texture_background_free_photo.yy",},
+    {"name":"story_c","order":1,"path":"objects/story_c/story_c.yy",},
+    {"name":"caseA","order":2,"path":"objects/caseA/caseA.yy",},
+    {"name":"caset","order":3,"path":"sprites/caset/caset.yy",},
+    {"name":"caseB","order":3,"path":"objects/caseB/caseB.yy",},
+    {"name":"m4reload","order":1,"path":"sounds/m4reload/m4reload.yy",},
+    {"name":"storyC","order":2,"path":"sprites/storyC/storyC.yy",},
+    {"name":"main_background_obj","order":3,"path":"objects/main_background_obj/main_background_obj.yy",},
+    {"name":"room1_start_obj","order":1,"path":"objects/room1_start_obj/room1_start_obj.yy",},
+    {"name":"caseb","order":1,"path":"sprites/caseb/caseb.yy",},
+    {"name":"title","order":3,"path":"sprites/title/title.yy",},
+    {"name":"caseT","order":4,"path":"objects/caseT/caseT.yy",},
+    {"name":"main_text","order":1,"path":"fonts/main_text/main_text.yy",},
+  ],
+}
